@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laura</h1>
+<h1 align="center">Hola 👋, soy Laura</h1>
 <h3 align="center">Desarrolladora de Aplicaciones Multiplataforma (DAM) con especial interés en el desarrollo backend y administración de bases de datos. Interesada y lista para embarcarme en nuevas oportunidades.</h3>
 
 - 📫 How to reach me **arvezlauradev@gmail.com**
