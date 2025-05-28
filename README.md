@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Laura</h1>
-<h3 align="center">Desarrolladora de Aplicaciones Multiplataforma (DAM)
-Curso de Especialización Inteligencia Artificial y Big Data</h3>
+<h3 align="center">Desarrolladora de Aplicaciones Multiplataforma (DAM)</h3>
+<h3 align="center">Curso de Especialización Inteligencia Artificial y Big Data</h3>
 
 - 📫 How to reach me **arvezlau@hotmail.com**
 
