@@ -1,14 +1,63 @@
 <h1 align="center">Hola 👋, soy Laura</h1>
-<h3 align="center">Desarrolladora de Aplicaciones Multiplataforma (DAM)</h3>
-<h3 align="center">Curso de Especialización Inteligencia Artificial y Big Data</h3>
 
-- 📫 How to reach me **arvezlau@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lauraarvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lauraarvez" height="30" width="40" /></a>
+<p align="center">
+  Desarrolladora de Aplicaciones Multiplataforma especializada en Java · Spring Boot · SQL  
+  <br>📚 Curso de Especialización en Inteligencia Artificial y Big Data
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+### 👩‍💻 Sobre mí
+
+Me apasiona crear soluciones útiles a través del código.  
+Actualmente estoy construyendo mi portafolio con proyectos reales, aplicando arquitectura limpia, APIs REST, buenas prácticas y documentación clara.
+
+Busco mi primera oportunidad profesional como **programadora junior** en entornos donde se valore el aprendizaje constante, la ética y la tecnología con propósito.
+
+---
+
+### 🛠 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+🔹 [**Balance Your Life**](https://github.com/LauraArvez/Balance-Your-Life-WebApp)  
+_API RESTful en Java basada en el modelo de Antoni Bolinches. Arquitectura Hexagonal, Spring Boot, DTOs, controladores REST y lógica de negocio separada._
+
+🔹 [**Habit Tracking**](https://github.com/LauraArvez/portfolio/tree/main/HabitTracking)  
+_App de seguimiento de hábitos en construcción. Enfocada en hábitos positivos, organizada con estructura limpia._
+
+🔹 [**API CRUD**](https://github.com/LauraArvez/portfolio/tree/main/apicrud)  
+_API básica con operaciones CRUD. Ideal para demostrar manejo de controladores, servicios, repositorios y pruebas simples._
+
+📌 Estoy reorganizando mis proyectos para que estén visibles por separado. ¡Gracias por tu visita!
+
+---
+
+### 📫 Contacto
+
+- 📧 [arvezlau@hotmail.com](mailto:arvezlau@hotmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/lauraarvez)  
+- 🌐 [Portfolio GitHub Pages](https://lauraarvez.github.io/)
+
+---
+
+### ⚡ Curiosidades
+
+- 💬 Me gusta combinar tecnología con reflexión y crecimiento personal  
+- 🧠 Interesada en la inteligencia artificial ética, la programación con propósito y la mejora continua  
+- 🌱 Actualmente aprendiendo: testing con JUnit, documentación Swagger y despliegue en la nube
+
+---
