@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Sobre mí
 
-Me apasiona crear soluciones útiles a través del código.  
+Me apasiona la posibilidad de crear soluciones útiles a través del código.  
 Actualmente estoy construyendo mi portafolio con proyectos reales, aplicando arquitectura limpia, APIs REST, buenas prácticas y documentación clara.
 
 Busco mi primera oportunidad profesional como **programadora junior** en entornos donde se valore el aprendizaje constante, la ética y la tecnología con propósito.
@@ -34,13 +34,11 @@ Busco mi primera oportunidad profesional como **programadora junior** en entorno
 ### 🚀 Proyectos Destacados
 
 🔹 [**Balance Your Life**](https://github.com/LauraArvez/Balance-Your-Life-WebApp)  
-_API RESTful en Java basada en el modelo de Antoni Bolinches. Arquitectura Hexagonal, Spring Boot, DTOs, controladores REST y lógica de negocio separada._
-
-🔹 [**Habit Tracking**](https://github.com/LauraArvez/portfolio/tree/main/HabitTracking)  
-_App de seguimiento de hábitos en construcción. Enfocada en hábitos positivos, organizada con estructura limpia._
+_API RESTful en Java Test de Balance Existencial basada en el modelo de Antoni Bolinches. 
+Arquitectura Hexagonal, Spring Boot, DTOs, controladores REST y lógica de negocio separada._
 
 🔹 [**API CRUD**](https://github.com/LauraArvez/portfolio/tree/main/apicrud)  
-_API básica con operaciones CRUD. Ideal para demostrar manejo de controladores, servicios, repositorios y pruebas simples._
+_API básica con operaciones CRUD. Manejo de controladores, servicios, repositorios y pruebas simples._
 
 📌 Estoy reorganizando mis proyectos para que estén visibles por separado. ¡Gracias por tu visita!
 
@@ -58,6 +56,6 @@ _API básica con operaciones CRUD. Ideal para demostrar manejo de controladores,
 
 - 💬 Me gusta combinar tecnología con reflexión y crecimiento personal  
 - 🧠 Interesada en la inteligencia artificial ética, la programación con propósito y la mejora continua  
-- 🌱 Actualmente aprendiendo: testing con JUnit, documentación Swagger y despliegue en la nube
+- 🌱 Actualmente aprendiendo: testing con JUnit, microservicios, inteligencia artificial y Big Data
 
 ---
