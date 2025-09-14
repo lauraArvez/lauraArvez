@@ -10,9 +10,8 @@
 ### 👩‍💻 Sobre mí
 
 Me apasiona la posibilidad de crear soluciones útiles a través del código.  
-Actualmente estoy construyendo mi portafolio con proyectos reales, aplicando arquitectura limpia, APIs REST, buenas prácticas y documentación clara.
+Construyendo mi portafolio con proyectos reales, aplicando arquitectura limpia, APIs REST, buenas prácticas y documentación clara.
 
-Busco mi primera oportunidad profesional como **programadora junior** en entornos donde se valore el aprendizaje constante, la ética y la tecnología con propósito.
 
 ---
 
